@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.votes {
+  flex: 30%;
+}
+
+.article {
+  flex: 70%;
+  margin-left: 10px;
+}
+
